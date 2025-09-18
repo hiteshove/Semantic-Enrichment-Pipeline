@@ -1,0 +1,7 @@
+openai
+spacy
+sentence-transformers
+dateparser
+geopy
+elasticsearch
+neo4j
