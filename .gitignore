@@ -7,3 +7,7 @@ venv/
 data/
 output/
 .vscode/
+
+.env/
+
+venv/
